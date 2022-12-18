@@ -1,3 +1,5 @@
+![Banner](https://github.com/lutfullahillabib/lutfullahillabib/blob/main/LLL-Banner.gif)
+
 <h1 align="center">Hi 👋, I'm Md. Lutfullahil Labib</h1>
 <h3 align="center">A passionate Web Developer from Bangladesh</h3>
 
@@ -5,13 +7,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lutfullahillabib" alt="lutfullahillabib" /></a> </p>
 
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+
 - 🌱 I’m currently learning **NextJS, Redux, React Native**
 
 - 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **lutfullahillabib@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18F18stP71fc_EnIhJySwnXPvnanS_HLp/view?usp=share_link](https://drive.google.com/file/d/18F18stP71fc_EnIhJySwnXPvnanS_HLp/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1E7ppUhCtNuwkt05czFztrBdtu5Fz87tE/view?usp=sharing)
 
 - ⚡ Fun fact **I love to solve Rubik's Cube, Play Guitar, Play Football.**
 
