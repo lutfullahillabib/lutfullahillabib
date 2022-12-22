@@ -40,7 +40,7 @@
 
 <!-- 0c1ebcf21d95449d95fb46f6c7808e21 -->
 
-<a href="https://app.daily.dev/DailyDevTips"><img align='right' src="https://github.com/lutfullahillabib/lutfullahillabib/blob/main/devcard.svg" width="300" alt="LLL Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img align='right' src="https://github.com/lutfullahillabib/lutfullahillabib/blob/main/devcard.svg" width="250" alt="LLL Dev Card"/></a>
 
 </div>
 
@@ -144,7 +144,6 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=lutfullahillabib&show_icons=true&theme=chartreuse-dark" alt="GitHub stats" /> 
 
-<br/>
 <br/>
 <br/>
 
