@@ -100,13 +100,44 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lutfullahillabib&show_icons=true&locale=en&layout=compact" alt="lutfullahillabib" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lutfullahillabib&show_icons=true&locale=en&layout=compact" alt="lutfullahillabib" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lutfullahillabib&show_icons=true&locale=en" alt="lutfullahillabib" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lutfullahillabib&" alt="lutfullahillabib" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lutfullahillabib&" alt="lutfullahillabib" /></p> -->
 
-##
+---
+
+**<h1 style="color:#00D8FF;font-size:32px;"> <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='40px' > **GitHub Stats:** </h1>**
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lutfullahillabib&theme=chartreuse-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lutfullahillabib&show_icons=true&theme=chartreuse-dark) 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lutfullahillabib&theme=neon-dark)](https://git.io/streak-stats) 
+
+<hr>
+
+![snake gif](https://github.com/lutfullahillabib/lutfullahillabib/blob/output/github-contribution-grid-snake.svg)
+
+
+<!--START_SECTION:waka-->
+
+<!-- ```text
+From: 13 September 2022 - To: 19 December 2022
+Total Time: 441 hrs 18 mins
+JavaScript   407 hrs 41 mins >>>>>>>>>>>>>>>>>>>>>>>--   92.38 %
+CSS          12 hrs 10 mins  >------------------------   02.76 %
+JSON         8 hrs 15 mins   -------------------------   01.87 %
+HTML         3 hrs 44 mins   -------------------------   00.85 %
+Markdown     3 hrs 23 mins   -------------------------   00.77 %
+Other        2 hrs 35 mins   -------------------------   00.59 %
+``` -->
+
+<!--END_SECTION:waka-->
+
+
+---
 
 <div align="center">
   <h4 align="center">Thank you for Visiting 💚 </h1>
