@@ -15,7 +15,7 @@
 
 <details >
 
-**<summary ><h1 style="color:#00D8FF;font-size:32px;"  align="center" > Trophies <span style="font-size:40px">🏆</span> </h1></summary>**
+**<summary ><h1 style="color:#00D8FF;font-size:32px;"  align="center" > Trophies <span style="font-size:50px">🏆</span> </h1></summary>**
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lutfullahillabib&theme=algolia" alt="lutfullahillabib" /></a> </p>
 
@@ -28,17 +28,25 @@
 <!-- # -->
 <!-- --- -->
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+<!-- <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"> -->
 
-- 🌱 I’m currently learning **NextJS, Redux, Typescript, React Native**
+<div align="left">
 
-- 💬 Ask me about **MERN Stack**
+<a href="https://app.daily.dev/lutfullahillabib"><img align='right' src="https://api.daily.dev/devcards/0c1ebcf21d95449d95fb46f6c7808e21.png?r=1h9" width="400" alt="Md. Lutfullahil Labib's Dev Card"/></a>
 
-- 📄 I’m currently open for an Intern or a new job opportunity, this is my **[Resume](https://drive.google.com/file/d/1E7ppUhCtNuwkt05czFztrBdtu5Fz87tE/view?usp=sharing)**
+<!-- 0c1ebcf21d95449d95fb46f6c7808e21 -->
 
-- 📫 How to reach me **lutfullahillabib@gmail.com**
+</div>
 
-- ⚡ Fun fact **I love to solve Rubik's Cube, Play Guitar, Play Football.**
+### - 🌱 I’m currently learning **NextJS, Redux, Typescript, React Native**
+
+### - 💬 Ask me about **MERN Stack**
+
+### - 📄 I’m currently open for an Intern or a new job opportunity, this is my **[Resume](https://drive.google.com/file/d/1E7ppUhCtNuwkt05czFztrBdtu5Fz87tE/view?usp=sharing)**
+
+### - 📫 How to reach me **lutfullahillabib@gmail.com**
+
+### - ⚡ Fun fact **I love to solve Rubik's Cube, Play Guitar, Play Football.**
 
 ---
 
