@@ -158,9 +158,9 @@
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lutfullahillabib&theme=neon-dark)](https://git.io/streak-stats)  -->
 
-<hr>
-
 </details>
+
+<hr>
 
 <div align='center'>
 
