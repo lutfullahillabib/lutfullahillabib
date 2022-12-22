@@ -8,7 +8,7 @@
 
 <!-- ![Banner](https://i.ibb.co/R91pYNB/LLL-Banner.gif) -->
 
-<img src='https://i.ibb.co/R91pYNB/LLL-Banner.gif' alt='banner' style=" border-radius: 5px" >
+<img src='https://i.ibb.co/R91pYNB/LLL-Banner.gif' alt='banner' style=" border-radius: 10px" >
 
 <!-- <h1 align="center">Hi 👋, I'm Md. Lutfullahil Labib</h1>
 <h3 align="center">A passionate Web Developer from Bangladesh</h3> -->
