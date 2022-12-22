@@ -19,7 +19,7 @@
 <!-- <details align="center"> -->
 <details >
 
-**<summary align="center" ><h1 style="color:#00D8FF;font-size:32px;" > Trophies <span style="font-size:50px">🏆</span> </h1></summary>**
+**<summary align="center" ><h1 style="color:#00D8FF;font-size:32px;" > <span style="font-size:50px">🏆</span> Trophies <span style="font-size:50px">🏆</span> </h1></summary>**
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lutfullahillabib&theme=algolia" alt="lutfullahillabib" /></a> </p>
 
@@ -27,7 +27,7 @@
 
 ---
 
-**<h1 style="color:#00D8FF;font-size:32px;"  align="center" > **About Me** <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> </h1>**
+**<h1 style="color:#00D8FF;font-size:32px;"  align="center" > <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"/> **About Me** <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> </h1>**
 
 <!-- # -->
 <!-- --- -->
@@ -58,7 +58,7 @@
 
 ---
 
-**<h1 style="color:#00D8FF;font-size:32px;"  align="center"> Languages & Tools <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 40px height=30px> </h1>**
+**<h1 style="color:#00D8FF;font-size:32px;"  align="center"> <span style="font-size:50px">💻</span> Languages & Tools <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 40px height=30px> </h1>**
 
 <!-- <br clear="both"> -->
 
@@ -134,7 +134,7 @@
 
 <details>
 
-**<summary  align="center" ><h1 style="color:#00D8FF;font-size:32px;"  align="center"> GitHub Stats: <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='40px'></h1></summary>**
+**<summary  align="center" ><h1 style="color:#00D8FF;font-size:32px;"  align="center"> <span style="font-size:50px">📈</span> GitHub Stats: <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='40px'></h1></summary>**
 
 <div align='center'>
 
@@ -182,7 +182,7 @@
 
 ---
 
- **<h1 align="center" style="color:#00D8FF;font-size:32px;"> ✍️ Random Dev Quote </h1>**
+ **<h1 align="center" style="color:#00D8FF;font-size:32px;"> <span style="font-size:50px">✍️</span> Random Dev Quote <span style="font-size:50px">💬</span> </h1>**
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
