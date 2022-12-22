@@ -15,7 +15,8 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=lutfullahillabib&label=Profile%20views&color=0e75b6&style=flat" alt="lutfullahillabib" /> </p> -->
 
-<details >
+
+<details align="center">
 
 **<summary ><h1 style="color:#00D8FF;font-size:32px;"  align="center" > Trophies <span style="font-size:50px">🏆</span> </h1></summary>**
 
