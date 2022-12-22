@@ -13,9 +13,17 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=lutfullahillabib&label=Profile%20views&color=0e75b6&style=flat" alt="lutfullahillabib" /> </p> -->
 
+<details >
+
+**<summary ><h1 style="color:#00D8FF;font-size:32px;"  align="center" > Trophies <span style="font-size:40px">🏆</span> </h1></summary>**
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lutfullahillabib&theme=algolia" alt="lutfullahillabib" /></a> </p>
 
-**<h1 style="color:#00D8FF;font-size:32px;"><picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About Me** </h1>**
+---
+
+</details>
+
+**<h1 style="color:#00D8FF;font-size:32px;"  align="center" > **About Me** <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> </h1>**
 
 <!-- # -->
 <!-- --- -->
@@ -34,7 +42,7 @@
 
 ---
 
-**<h1 style="color:#00D8FF;font-size:32px;"> Languages & Tools <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 40px height=30px> </h1>**
+**<h1 style="color:#00D8FF;font-size:32px;"  align="center"> Languages & Tools <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 40px height=30px> </h1>**
 
 <!-- <br clear="both"> -->
 
@@ -60,7 +68,7 @@
 
 <hr/>
 
-**<h1 style="color:#00D8FF;font-size:32px;"> Connect With Me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h1>**
+**<h1 style="color:#00D8FF;font-size:32px;"  align="center"><img src='https://camo.githubusercontent.com/d07fd255b6713580984a96adcb138c5b1a5f66e6b5998cf1bfa42c705e21c513/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f616c3767726b6272434368544150456679682f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966'  width="50px"> Connect With Me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height="40px"> </h1>**
 
 <!-- <br clear="both"> -->
 
@@ -108,45 +116,69 @@
 
 ---
 
-**<h1 style="color:#00D8FF;font-size:32px;"> <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='40px' > **GitHub Stats:** </h1>**
+<details>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lutfullahillabib&theme=chartreuse-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+**<summary><h1 style="color:#00D8FF;font-size:32px;"  align="center"> GitHub Stats: <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='40px'></h1></summary>**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lutfullahillabib&show_icons=true&theme=chartreuse-dark) 
+<div align='center'>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lutfullahillabib&theme=neon-dark)](https://git.io/streak-stats) 
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lutfullahillabib&theme=chartreuse-dark&layout=compact" alt="Top Langs" /></a> 
+
+<br/>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=lutfullahillabib&show_icons=true&theme=chartreuse-dark" alt="GitHub stats" /> 
+
+<br/>
+
+<a href="https://git.io/streak-stats" target="_blank"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lutfullahillabib&theme=neon-dark" alt="GitHub Streak" /></a> 
+
+</div>
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lutfullahillabib&theme=chartreuse-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  -->
+
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lutfullahillabib&show_icons=true&theme=chartreuse-dark)  -->
+
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lutfullahillabib&theme=neon-dark)](https://git.io/streak-stats)  -->
 
 <hr>
+
+</details>
+
+<div align='center'>
 
 <!-- https://github.com/lutfullahillabib/lutfullahillabib/blob/output/github-contribution-grid-snake.gif -->
 
 <!-- https://github.com/lutfullahillabib/lutfullahillabib/blob/output/github-contribution-grid-snake.svg -->
 
-![snake gif](https://github.com/lutfullahillabib/lutfullahillabib/blob/output/github-contribution-grid-snake.svg)
+<img align="center" src="https://github.com/lutfullahillabib/lutfullahillabib/blob/output/github-contribution-grid-snake.svg" alt="snake gif" /> 
 
+<!-- ![snake gif](https://github.com/lutfullahillabib/lutfullahillabib/blob/output/github-contribution-grid-snake.svg) -->
+
+<br/>
+
+<!-- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@lutfullahillabib/13b5f2ed-8267-47cc-a54d-2d7b01ef0d25.png" /></a> -->
 
 <!--START_SECTION:waka-->
 
-<!-- ```text
-From: 13 September 2022 - To: 19 December 2022
-Total Time: 441 hrs 18 mins
-JavaScript   407 hrs 41 mins >>>>>>>>>>>>>>>>>>>>>>>--   92.38 %
-CSS          12 hrs 10 mins  >------------------------   02.76 %
-JSON         8 hrs 15 mins   -------------------------   01.87 %
-HTML         3 hrs 44 mins   -------------------------   00.85 %
-Markdown     3 hrs 23 mins   -------------------------   00.77 %
-Other        2 hrs 35 mins   -------------------------   00.59 %
-``` -->
 
 <!--END_SECTION:waka-->
 
+</div>
 
 ---
 
 <div align="center">
-  <h4 align="center">Thank you for Visiting 💚 </h1>
-  <br/>
-  <img src="https://profile-counter.glitch.me/lutfullahillabib/count.svg" />
+
+  **<h1 align="center" style="color:#00D8FF;font-size:32px;"> <img src='https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif' width="50px" height="50px"/> Thank you for Visiting 💚 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/facebook/327/flag-bangladesh_1f1e7-1f1e9.png" width="50px" height="50px"/> </h1>**
+
+ <!-- <img src="https://img.icons8.com/emoji/96/null/bangladesh-emoji.png" width="50px" height="50px"/> -->
+
+ <!-- <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/348/flag-bangladesh_1f1e7-1f1e9.png" width="50px" height="50px"/> -->
+
+ <!-- <br/> -->
+ 
+ <img src="https://profile-counter.glitch.me/lutfullahillabib/count.svg" />
+
 </div>
 
 <br/>
@@ -154,4 +186,6 @@ Other        2 hrs 35 mins   -------------------------   00.59 %
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lutfullahillabib&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="lutfullahillabib" /> </p>
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/lutfullahillabib/count.svg) -->
+
+---
 
