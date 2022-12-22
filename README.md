@@ -40,7 +40,7 @@
 
 <!-- 0c1ebcf21d95449d95fb46f6c7808e21 -->
 
-<a href="https://app.daily.dev/DailyDevTips"><img align='right' src="https://github.com/lutfullahillabib/lutfullahillabib/blob/main/devcard.svg" width="200" alt="LLL Dev Card"/></a>
+<a href="https://app.daily.dev/lutfullahillabib"><img align='right' src="https://github.com/lutfullahillabib/lutfullahillabib/blob/main/devcard.svg" width="200" alt="LLL Dev Card"/></a>
 
 </div>
 
