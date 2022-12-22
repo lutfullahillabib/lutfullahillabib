@@ -32,9 +32,12 @@
 
 <div align="left">
 
-<a href="https://app.daily.dev/lutfullahillabib"><img align='right' src="https://api.daily.dev/devcards/0c1ebcf21d95449d95fb46f6c7808e21.png?r=1h9" width="400" alt="Md. Lutfullahil Labib's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/lutfullahillabib"><img align='right' src="https://api.daily.dev/devcards/0c1ebcf21d95449d95fb46f6c7808e21.png?r=1h9" width="400" alt="Md. Lutfullahil Labib's Dev Card"/></a> -->
 
 <!-- 0c1ebcf21d95449d95fb46f6c7808e21 -->
+
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/lutfullahillabib/lutfullahillabib/blob/main/devcard.svg" width="400" alt="LLL Dev Card"/></a>
+
 
 </div>
 
