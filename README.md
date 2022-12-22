@@ -44,15 +44,15 @@
 
 </div>
 
-### - 🌱 I’m currently learning **NextJS, Redux, Typescript, React Native**
+- ### 🌱 I’m currently learning **NextJS, Redux, Typescript, React Native**
 
-### - 💬 Ask me about **MERN Stack**
+- ### 💬 Ask me about **MERN Stack**
 
-### - 📄 I’m currently open for an Intern or a new job opportunity, this is my **[Resume](https://drive.google.com/file/d/1E7ppUhCtNuwkt05czFztrBdtu5Fz87tE/view?usp=sharing)**
+- ### 📄 I’m currently open for an Intern or a new job opportunity, this is my **[Resume](https://drive.google.com/file/d/1E7ppUhCtNuwkt05czFztrBdtu5Fz87tE/view?usp=sharing)**
 
-### - 📫 How to reach me **lutfullahillabib@gmail.com**
+- ### 📫 How to reach me **lutfullahillabib@gmail.com**
 
-### - ⚡ Fun fact **I love to solve Rubik's Cube, Play Guitar, Play Football.**
+- ### ⚡ Fun fact **I love to solve Rubik's Cube, Play Guitar, Play Football.**
 
 <br/>
 
