@@ -183,7 +183,7 @@
 ---
 
  **<h1 align="center" style="color:#00D8FF;font-size:32px;"> ✍️ Random Dev Quote </h1>**
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
