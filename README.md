@@ -36,7 +36,7 @@
 
 <!-- 0c1ebcf21d95449d95fb46f6c7808e21 -->
 
-<a href="https://app.daily.dev/DailyDevTips"><img align='right' src="https://github.com/lutfullahillabib/lutfullahillabib/blob/main/devcard.svg" width="400" alt="LLL Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img align='right' src="https://github.com/lutfullahillabib/lutfullahillabib/blob/main/devcard.svg" width="200" alt="LLL Dev Card"/></a>
 
 </div>
 
@@ -51,6 +51,8 @@
 ### - ⚡ Fun fact **I love to solve Rubik's Cube, Play Guitar, Play Football.**
 
 ---
+
+<br/>
 
 **<h1 style="color:#00D8FF;font-size:32px;"  align="center"> Languages & Tools <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 40px height=30px> </h1>**
 
