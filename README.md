@@ -122,7 +122,7 @@
 
 <!-- https://github.com/lutfullahillabib/lutfullahillabib/blob/output/github-contribution-grid-snake.svg -->
 
-![snake gif](https://github.com/lutfullahillabib/lutfullahillabib/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/lutfullahillabib/lutfullahillabib/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--START_SECTION:waka-->
