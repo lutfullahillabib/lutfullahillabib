@@ -19,13 +19,13 @@
 <!-- <details align="center"> -->
 <details >
 
-**<summary align="center" ><h1 style="color:#00D8FF;font-size:32px;"  > Trophies <span style="font-size:50px">🏆</span> </h1></summary>**
+**<summary align="center" ><h1 style="color:#00D8FF;font-size:32px;" > Trophies <span style="font-size:50px">🏆</span> </h1></summary>**
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lutfullahillabib&theme=algolia" alt="lutfullahillabib" /></a> </p>
 
----
-
 </details>
+
+---
 
 **<h1 style="color:#00D8FF;font-size:32px;"  align="center" > **About Me** <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> </h1>**
 
@@ -40,7 +40,7 @@
 
 <!-- 0c1ebcf21d95449d95fb46f6c7808e21 -->
 
-<a href="https://app.daily.dev/DailyDevTips"><img align='right' src="https://github.com/lutfullahillabib/lutfullahillabib/blob/main/devcard.svg" width="200" alt="LLL Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img align='right' src="https://github.com/lutfullahillabib/lutfullahillabib/blob/main/devcard.svg" width="300" alt="LLL Dev Card"/></a>
 
 </div>
 
