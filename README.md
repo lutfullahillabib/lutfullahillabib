@@ -6,7 +6,9 @@
 
 <!-- ![Banner](https://i.ibb.co/jJkMM8Y/LLL-Banner.png) -->
 
-![Banner](https://i.ibb.co/R91pYNB/LLL-Banner.gif)
+<!-- ![Banner](https://i.ibb.co/R91pYNB/LLL-Banner.gif) -->
+
+<img src='https://i.ibb.co/R91pYNB/LLL-Banner.gif' alt='banner' style=" border-radius: 5px" >
 
 <!-- <h1 align="center">Hi 👋, I'm Md. Lutfullahil Labib</h1>
 <h3 align="center">A passionate Web Developer from Bangladesh</h3> -->
@@ -50,9 +52,9 @@
 
 ### - ⚡ Fun fact **I love to solve Rubik's Cube, Play Guitar, Play Football.**
 
----
-
 <br/>
+
+---
 
 **<h1 style="color:#00D8FF;font-size:32px;"  align="center"> Languages & Tools <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 40px height=30px> </h1>**
 
@@ -136,10 +138,11 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lutfullahillabib&theme=chartreuse-dark&layout=compact" alt="Top Langs" /></a> 
 
-<br/>
+<!-- <br/> -->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=lutfullahillabib&show_icons=true&theme=chartreuse-dark" alt="GitHub stats" /> 
 
+<br/>
 <br/>
 <br/>
 
