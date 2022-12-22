@@ -16,9 +16,10 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=lutfullahillabib&label=Profile%20views&color=0e75b6&style=flat" alt="lutfullahillabib" /> </p> -->
 
 
-<details align="center">
+<!-- <details align="center"> -->
+<details >
 
-**<summary ><h1 style="color:#00D8FF;font-size:32px;"  align="center" > Trophies <span style="font-size:50px">🏆</span> </h1></summary>**
+**<summary align="center" ><h1 style="color:#00D8FF;font-size:32px;"  > Trophies <span style="font-size:50px">🏆</span> </h1></summary>**
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lutfullahillabib&theme=algolia" alt="lutfullahillabib" /></a> </p>
 
@@ -133,7 +134,7 @@
 
 <details>
 
-**<summary><h1 style="color:#00D8FF;font-size:32px;"  align="center"> GitHub Stats: <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='40px'></h1></summary>**
+**<summary  align="center" ><h1 style="color:#00D8FF;font-size:32px;"  align="center"> GitHub Stats: <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='40px'></h1></summary>**
 
 <div align='center'>
 
@@ -186,7 +187,7 @@
 
 <div align="center">
 
-  **<h1 align="center" style="color:#00D8FF;font-size:32px;"> <img src='https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif' width="50px" height="50px"/> Thank you for Visiting 💚 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/facebook/327/flag-bangladesh_1f1e7-1f1e9.png" width="50px" height="50px"/> </h1>**
+ **<h1 align="center" style="color:#00D8FF;font-size:32px;"> <img src='https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif' width="50px" height="50px"/> Thank you for Visiting 💚 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/facebook/327/flag-bangladesh_1f1e7-1f1e9.png" width="50px" height="50px"/> </h1>**
 
  <!-- <img src="https://img.icons8.com/emoji/96/null/bangladesh-emoji.png" width="50px" height="50px"/> -->
 
