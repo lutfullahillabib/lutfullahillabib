@@ -48,7 +48,7 @@
 
 - ### 💬 Ask me about **MERN Stack**
 
-- ### 📄 I’m currently open for an Intern or a new job opportunity, this is my **[Resume](https://drive.google.com/file/d/1E7ppUhCtNuwkt05czFztrBdtu5Fz87tE/view?usp=sharing)**
+- ### 📄 I’m currently open for an Intern or a new job opportunity, this is my **[Resume](https://drive.google.com/file/d/1E7ppUhCtNuwkt05czFztrBdtu5Fz87tE/view?usp=sharing)** & **[CV](https://drive.google.com/file/d/1XKhqEtqAi8bAjOgs9kliahKjiNTLV0gC/view?usp=sharing)**
 
 - ### 📫 How to reach me **lutfullahillabib@gmail.com**
 
@@ -197,7 +197,9 @@ Other         7 mins          ░░░░░░░░░░░░░░░░�
 
 <div align="center">
 
- **<h1 align="center" style="color:#00D8FF;font-size:32px;"> <img src='https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif' width="50px" height="50px"/> Thank you for Visiting 💚 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/facebook/327/flag-bangladesh_1f1e7-1f1e9.png" width="50px" height="50px"/> </h1>**
+ **<h1 align="center" style="color:#00D8FF;font-size:32px;"> <img src='https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif' width="50px" height="50px"/> Thank you for Visiting 💚 </h1>**
+ 
+ <!-- <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/facebook/327/flag-bangladesh_1f1e7-1f1e9.png" width="50px" height="50px"/> -->
 
  <!-- <img src="https://img.icons8.com/emoji/96/null/bangladesh-emoji.png" width="50px" height="50px"/> -->
 
