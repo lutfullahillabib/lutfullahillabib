@@ -37,26 +37,38 @@ jobs:
       - uses: actions/checkout@v2
 
     # Generates the snake  
+      # - uses: Sutil/snk@master
       - uses: Platane/snk@master
         id: snake-gif
         with:
+          # github_user_name: ${{ github.repository_owner }}
           github_user_name: lutfullahillabib
           # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
           env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # snake_color: 'blue'
 
      # show the status of the build. Makes it easier for debugging (if there's any issues).
       # - run: git status
 
       # Push the changes
-      - name: Push changes
+      - name: Push changes Master
         uses: ad-m/github-push-action@master
         with:
           env:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: master
+          force: true
+      
+      # Push the changes
+      - name: Push changes Main
+        uses: ad-m/github-push-action@main
+        with:
+          env:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
           force: true
 
       # - uses: crazy-max/ghaction-github-pages@v2.1.3
