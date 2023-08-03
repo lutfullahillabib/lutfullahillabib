@@ -171,6 +171,12 @@
 
 <!-- ![snake gif](https://github.com/lutfullahillabib/lutfullahillabib/blob/output/github-contribution-grid-snake.svg) -->
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 <br/>
 
 <!-- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@lutfullahillabib/13b5f2ed-8267-47cc-a54d-2d7b01ef0d25.png" /></a> -->
