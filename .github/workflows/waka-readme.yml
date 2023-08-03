@@ -44,9 +44,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.waka_15a5cf95-de52-455f-b694-3eeef6227df6 }}
-          
-         # WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        with:      
+         WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 
 
