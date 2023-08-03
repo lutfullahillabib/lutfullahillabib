@@ -169,7 +169,7 @@
 
 <img align="center" src="https://github.com/lutfullahillabib/lutfullahillabib/blob/output/github-contribution-grid-snake.svg" alt="snake gif" /> 
 
-<!-- ![snake gif](https://github.com/lutfullahillabib/lutfullahillabib/blob/output/github-contribution-grid-snake.svg) -->
+![snake gif](https://github.com/lutfullahillabib/lutfullahillabib/blob/output/github-contribution-grid-snake.svg)
 
 <br/>
 
