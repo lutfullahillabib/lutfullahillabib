@@ -36,6 +36,8 @@
 
 <div align="left">
 
+<!-- https://api.daily.dev/devcards/0c1ebcf21d95449d95fb46f6c7808e21.png?r=88o -->
+
 <!-- <a href="https://app.daily.dev/lutfullahillabib"><img align='right' src="https://api.daily.dev/devcards/0c1ebcf21d95449d95fb46f6c7808e21.png?r=1h9" width="400" alt="Md. Lutfullahil Labib's Dev Card"/></a> -->
 
 <!-- 0c1ebcf21d95449d95fb46f6c7808e21 -->
