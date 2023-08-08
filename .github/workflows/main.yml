@@ -50,7 +50,7 @@ jobs:
           # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
-          env:
+        env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           # snake_color: 'blue'
 
@@ -61,7 +61,7 @@ jobs:
       - name: Push changes Master
         uses: ad-m/github-push-action@master
         with:
-          env:
+        # env:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: master
           force: true
