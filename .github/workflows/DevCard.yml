@@ -9,11 +9,15 @@ on:
     branches:
       - main
   schedule:
-    - cron: "* * * * *"
+    - cron: "0 */6 * * *"
+    # - cron: "* * * * *"
+    # - cron: "0 0 * * *"
 
 jobs:
   devcard:
     runs-on: ubuntu-latest
+    # permissions:
+    #   contents: write
     steps:
       - name: devcard
         uses: dailydotdev/action-devcard@2.0.2
@@ -21,4 +25,3 @@ jobs:
           devcard_id: ${{ secrets.DEVCARD_ID }}
 
 
-          
