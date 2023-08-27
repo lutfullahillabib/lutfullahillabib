@@ -5,4 +5,8 @@ updates:
     directory: "/"
     schedule:
       interval: "daily"
-
+  # Specify the package ecosystems you want to update
+  # - package-ecosystem: "npm" # Example: npm, pip, rubygems
+  #   directory: "/"
+  #   schedule:
+  #     interval: "daily"

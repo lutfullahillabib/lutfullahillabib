@@ -176,14 +176,6 @@
 
 <br/>
 
-<!-- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@lutfullahillabib/13b5f2ed-8267-47cc-a54d-2d7b01ef0d25.png" /></a> -->
-
-<!--START_SECTION:waka-->
-
-
-
-<!--END_SECTION:waka-->
-
 ---
 
  **<h1 align="center" style="color:#00D8FF;font-size:32px;"> <span style="font-size:50px">✍️</span> Random Dev Quote <span style="font-size:50px">💬</span> </h1>**
